@@ -1,0 +1,6 @@
+fisrtnumber=float(input("Enter your a(first number): "))
+secondnumber=float(input("Enter your b(second number): "))
+thirdnumber=float(input("Enter your c(third number): "))
+resulta=print("First="+str(fisrtnumber**0.5))
+resultb=print("Second="+str(secondnumber**0.5))
+resultc=print("Third="+str(thirdnumber**0.5))
