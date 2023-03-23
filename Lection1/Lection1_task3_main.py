@@ -1,3 +1,4 @@
+print("This program is a calculator")
 fisrtnumber=float(input("Enter your first number: "))
 secondnumber=float(input("Enter your second number: "))
 youraction=input("Enter your action: ")
