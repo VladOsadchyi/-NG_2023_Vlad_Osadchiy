@@ -1,5 +1,5 @@
 from collections import Counter
-print("This progran will return your unique elements")
+print("This progran will return your unique elements!Good luck!")
 yourelements=input("Enter your elements: ").split()
 finallist=[]
 counterel=Counter(yourelements)

@@ -1,5 +1,5 @@
 from collections import Counter
-print("This program will return the list with non-unique from all your lists")
+print("This program will return the list with non-unique from all your lists!Good luck")
 firstlist=input("Enter your first list: ").split()
 secondlist=input("Enter your second list: ").split()
 thirdlist=input("Enter your third list: ").split()
