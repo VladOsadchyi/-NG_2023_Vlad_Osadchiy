@@ -1,4 +1,4 @@
-print("This program will solve a quadratic equation!Good luck")
+print("This program will solve a quadratic equation!Good luck!")
 fisrtnumber=float(input("Enter your a(first number): "))
 secondnumber=float(input("Enter your b(second number): "))
 thirdnumber=float(input("Enter your c(third number): "))
